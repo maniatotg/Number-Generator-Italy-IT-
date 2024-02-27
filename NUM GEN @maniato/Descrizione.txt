@@ -1,0 +1,31 @@
+Generatore di Numeri Casuali con Prefisso
+
+Questo repository contiene uno script Python interattivo per generare numeri casuali con un prefisso personalizzato e salvarli su un file di testo sul desktop. Lo script è progettato per offrire un modo semplice e versatile per generare numeri casuali utilizzando parametri specificati dall'utente.
+Caratteristiche Principali:
+
+    Personalizzazione del Prefisso: L'utente può specificare un prefisso personalizzato da utilizzare per i numeri generati.
+    Scelta del Numero di Generazioni: È possibile selezionare il numero di numeri casuali da generare, da un minimo di 1 fino a un massimo di 10 milioni.
+    Opzione per Aggiungere il Prefisso '39-': L'utente ha la possibilità di aggiungere automaticamente il prefisso '39-' ai numeri generati.
+    Salvataggio su File di Testo: I numeri generati vengono salvati su un file di testo sul desktop dell'utente per una facile accessibilità.
+
+Come Avviare lo Script:
+
+    Clona o Scarica il Repository:
+        Puoi clonare il repository utilizzando il comando git clone <URL_del_repository> oppure scaricare il repository come file ZIP e decomprimerlo sul tuo computer.
+
+    Apri il Terminale o il Prompt dei Comandi:
+        Accedi al terminale o al prompt dei comandi del tuo sistema operativo.
+
+    Naviga nella Directory del Repository:
+        Utilizza il comando cd per navigare nella directory in cui hai clonato o scaricato il repository.
+
+    Esegui lo Script:
+        Digita il comando python nome_del_file.py per avviare lo script Python. Assicurati di sostituire nome_del_file.py con il nome effettivo dello script all'interno del repository.
+
+    Segui le Istruzioni Visualizzate:
+        Dopo aver avviato lo script, seguirà una serie di istruzioni interattive per specificare il numero di numeri da generare, il prefisso desiderato e se aggiungere o meno il prefisso '39-'.
+
+    Controlla il File di Testo Generato:
+        Una volta completata l'esecuzione dello script, troverai il file di testo denominato "NumGenBy@MANIATO.txt" sul desktop, contenente i numeri generati.
+
+Con questi passaggi, sarai in grado di utilizzare facilmente lo script per generare numeri casuali con prefisso personalizzato e salvare i risultati su file.
